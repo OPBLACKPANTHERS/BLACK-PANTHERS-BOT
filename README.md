@@ -1,135 +1,84 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/DANISH_BABA/BLACKPANTHER-BOT/dashboard)
-[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/https://github.com/TheBlackPantherBot/BLACKPANTHER-USERBOT)
-[![HitCount](http://hits.dwyl.com/OPBLACKPANTHERS/OPBLACKPANTHERS.svg)](http://hits.dwyl.com/OPBLACKPANTHERS/OPBLACKPANTHERS)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/DANISH_BABA)
+<h1 align="center">
+  <b>𝐏𝐀𝐍𝐓𝐇𝐄𝐑𝐒 𝐁𝐎𝐓 🇮🇳</b>
+</h1>
+
+<p align="center">
+  <img src="https://telegra.ph/file/7f19669219bcb2fe1338e.jpg" alt="The-PANTHERS BOT">
+</p>
+
+𝙱𝙴𝚂𝚃 𝙰𝙽𝙳 𝙼𝙾𝚂𝚃 𝙰𝚆𝙰𝙸𝚃𝙴𝙳 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚃𝙾 𝙼𝙰𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+------
+[![GitHub forks](https://img.shields.io/github/forks/OPBLACKPANTHERS/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)](https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-BOT/fork)
+[![GitHub stars](https://img.shields.io/github/stars/OPBLACKPANTHERS/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)](https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-BOT/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/OPBLACKPANTHERS/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/OPBLACKPANTHERS/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)](https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-BOT/blob/master/LICENSE)
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+![Branch](https://img.shields.io/badge/Branch-Master-orange)
+![GitHub language count](https://img.shields.io/github/languages/count/OPBLACKPANTHERS/BLACK-PANTHERS-BOT?color=Pink&label=Language&style=flat-square)
+                            
+------
+## Telegram 🏪
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BLACKPANTHERSBOLTE)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/PANTHERS_TECH)
+
+------
+## Deploy 🚀
+- [![Deploy](https://telegra.ph/file/65380c1a4a95a0feda05f.jpg)](https://heroku.com/deploy?template=https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-BOT)
 
 
+## Variables
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `PANTHERS_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `LOGGER_ID`  =  Make A Channel And Get it's ID.
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
-BlackPantherBot made by @DANISH_BABA. Supported by respective destroy x owner @CRiMiMaL786. Join for update related info channel and group :- https://t.me/BlackPantherBot_Support THANKS FOR VISITING OUR REPO💖
-[![BLACKPANTHERBOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/BlackPantherBot_Support)
+-----
 
+### Repl
+- Open Repl Link.
+- Click on Green Play Button.
+- Wait for requirements to finish.
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Your PANTHERS Bot Session Will be saved in your Telegram Saved Message.
+- [![Replit](https://telegra.ph/file/d9ea57d1f68ac2e7814a2.jpg)](https://replit.com/@OPBLACKPANTHERS/BLACK-PANTHERS-BOT)
 
-# The owner would not be responsible for any kind of bans due to the bot...
+### TERMUX
+- Open the TERMUX
+- Paste this code.
 
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/OPBLACKPANTHERS/BLACK-PANTHERS-USERBOT/master/BlackPanthers-string.py && python3 BlackPanthers-string.py`
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
+- Your PanthersBot Session Will be saved in your Telegram Saved Message.
 
-<details>
+------
 
-  <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/BlackPantherBot_Support">☢️JOIN BLACKPANTHERBOT SUPPORT☢️</a></h2>
-
-</details>
-
-
-# FORK AT YOUR OWN RISK
-
-<details>
-
-  <summary> • INSTALLING • </summary>
-
-### The Easy Way
-
-<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
-
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTheBlackPantherBot%2FBlackPantherBot&template=https%3A%2F%2Fgithub.com%2FTheBlackPantherBot%2FBlackPantherBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-
-</details>
-
-<details>
-
-  <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
-
-</details>
-
-<details>
-
-  <summary> • THE NORMAL WAY • </summary>
-
-Simply clone the repository and run the main file:
-```sh
-git clone https://github.com/DANISH_BABA/BLACKPANTHER-USERBOT.git
-cd BLACKPANTHER-USERBOT
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-# <Create local_config.py with variables as given below>
-python3 -m userbot
-```
-
-An example `local_config.py` file could be:
-
-**Not All of the variables are mandatory**
-
-__The Userbot should work by setting only the first two variables__
-
-```python3
-from heroku_config import Var
-
-class Development(Var):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-```
-
-</details>
-
-<details>
-
-  <summary> • UNIBORG CONFIGURATION • </summary>
-
-The UniBorg Config is situated in `userbot/uniborgConfig.py`.
-
-**Heroku Configuration**
-Simply just leave the Config as it is.
-
-**Local Configuration**
-Fortunately there are no Mandatory vars for the UniBorg Support Config.
-
-</details>
-
-<details>
-
-  <summary> • MANDATORY VARS • </summary>
-
-- Only two of the environment variables are mandatory.
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-    - `APP_ID`:   You can get this value from https://my.telegram.org
-    - `API_HASH`:   You can get this value from https://my.telegram.org
-- The userbot will not work without setting the mandatory vars.
+## Creator : [AMAN](https://t.me/IDANISHBABA)
 
 
-</details>
+------
 
-<details>
+## Disclaimer
+- We won't be responsible for any kind of ban due to this bot.
+- PANTHERS BOT was made for fun purpose and to make group management easier.
+- It's your concern if you spam and gets your account banned.
+- Also, Forks won't be entertained.
+- If you fork this repo and edit plugins, it's your concern for further updates.
+- Forking Repo is fine. But if you edit something we will not provide any help.
+- In short, Fork At Your Own Risk.
 
-  <summary> • LICENSE • </summary>
+------
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
+## Credits
 
-Copyright (C) 2021 DANISH_BABA
+- 💖 MAFIA BOT
 
-Poject [BLACKPANTHERBOT](https://github.com/OPBLACKPANTHERS/OPBLACKPANTHERS) is free software: you can redistribute it and/or modify
-
-it under the terms of the GNU General Public License as published by
-
-the Free Software Foundation, either version 3 of the License, or
-
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</details>
+------
