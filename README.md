@@ -1,5 +1,5 @@
 <h1 align="center">
-# 𝐏𝐀𝐍𝐓𝐇𝐄𝐑𝐒 𝐁𝐎𝐓 🇮🇳
+𝐏𝐀𝐍𝐓𝐇𝐄𝐑𝐒 𝐁𝐎𝐓 🇮🇳
 </h1>
 
 <p align="center">
